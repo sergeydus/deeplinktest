@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <button onClick={()=>window.open('supplant://?screen=PlotAlertInfoScreen&plotId=685&growerId=126&alert=896698')}>open deep habibi</button>
       </header>
     </div>
   );

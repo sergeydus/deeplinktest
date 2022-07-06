@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "MDM446Z95T.me.supplant.dss"
+                ],
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
