@@ -7,7 +7,7 @@
                     "MDM446Z95T.me.supplant.dss"
                 ],
                 "paths": [
-                    "*"
+                    "/mobile*"
                 ]
             }
         ]
